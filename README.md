@@ -1,2 +1,2 @@
 # PCA_biplot_contribution
-Principal component analysis and biplot by Python
+Simple principal component analysis and biplot tool by Python - personal project
