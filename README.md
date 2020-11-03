@@ -2,7 +2,7 @@
 Simple principal component analysis and biplot tool
 
 
-The codes here is written for my own personal projects. The codes were especially important for my practical job to utilize key algorithms, to preprocess dataset, and to work on my unique tasks. For the purpose of reuse and further improvement, they are recorded.
+The codes here is written for my own personal projects. The codes were especially important for my practical job to utilize key algorithms, to preprocess dataset, and to work on my unique tasks.
 
 <br>
 <br>
