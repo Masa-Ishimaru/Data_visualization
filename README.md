@@ -1,8 +1,8 @@
 # PCA_biplot_contribution
-Simple principal component analysis and biplot tool
+Simple scripts to perform PCA using elbow method. Visualize analysis also.
 
 
-Written for my own personal projects. The codes were important for my practical job to utilize key algorithms, to preprocess dataset, and to work on my specific tasks.
+Written for my own personal projects. The codes were important for my practical jobs to utilize key algorithms, to preprocess dataset, and to work on my tasks.
 
 <br>
 <br>
