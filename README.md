@@ -1,4 +1,4 @@
-# PCA_biplot_contribution
+# Principal component analysis (PCA)
 Simple scripts to perform PCA using elbow method. Visualize analysis also.
 
 
